@@ -106,7 +106,7 @@ Notes (Bearer token required)
 <!-- Deployment section intentionally removed as per request -->
 # smartnote
 
-
+  Video
 https://github.com/user-attachments/assets/cfe8ddcd-e196-4413-b828-356f4359a145
 note :- even the play summary will work but while recording the mointor voice was not recoreded
 
