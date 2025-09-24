@@ -1,4 +1,5 @@
-<img width="1280" height="640" alt="repository-open-graph-template" src="https://github.com/user-attachments/assets/6f50670b-9720-463a-8e49-350c71608cab" /># AI-Powered Smart Notes App (MERN + AI)
+
+## AI-Powered Smart Notes App (MERN + AI)
 
 A full-stack notes app with speech-to-text, AI summarization, and text-to-speech. Users can register/login (JWT), create/edit/delete notes, get AI-generated summaries, and play summaries as audio.
 
