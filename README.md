@@ -1,4 +1,4 @@
-# AI-Powered Smart Notes App (MERN + AI)
+<img width="1280" height="640" alt="repository-open-graph-template" src="https://github.com/user-attachments/assets/6f50670b-9720-463a-8e49-350c71608cab" /># AI-Powered Smart Notes App (MERN + AI)
 
 A full-stack notes app with speech-to-text, AI summarization, and text-to-speech. Users can register/login (JWT), create/edit/delete notes, get AI-generated summaries, and play summaries as audio.
 
@@ -104,3 +104,9 @@ Notes (Bearer token required)
 
 <!-- Deployment section intentionally removed as per request -->
 # smartnote
+
+
+https://github.com/user-attachments/assets/cfe8ddcd-e196-4413-b828-356f4359a145
+note :- even the play summary will work but while recording the mointor voice was not recoreded
+
+
